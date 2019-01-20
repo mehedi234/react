@@ -1,0 +1,14 @@
+body{
+  margin: 0;
+  font-family: fantasy
+}
+
+header{
+  background: darkgrey;
+  text-align: center;
+}
+
+.logo{
+  font-family: Dejavu Serif;
+  font-size: 55px;
+}
